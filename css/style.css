@@ -6,7 +6,7 @@ html, body {
 }
 
 body {
-  background: url(../images/backgrounds/architecture.jpg) center no-repeat;
+  background-image: linear-gradient(  to bottom right,green, white);
   background-size: cover;
   background-attachment: fixed;
   font-family: Helvetica, Arial, sans-serif;
@@ -52,7 +52,9 @@ img {
 }
 
 p {
-  font-size: 1em;
+  font-size: 2em;
+  color: rgb(72, 82, 28);
+  font-family: 'Trebuchet MS';
 }
 
 a {
